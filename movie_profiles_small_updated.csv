@@ -1,1 +1,1 @@
-rate_ave	genres	revenue	rate_cnt	popularity	mid	crew	releasedate	cast	studio	budget	title	runtime
+rate_ave,genre_val,revenue,rate_cnt,popularity,mid,crew,releasedate,cast,studio,budget,title,runtime
