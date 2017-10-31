@@ -6,6 +6,8 @@ import java.io.FileWriter;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 
 
 public class CSVrefiner
@@ -13,10 +15,47 @@ public class CSVrefiner
 	public static void main(String[] args)
 	{			
 		ArrayList<String> genres = CSVrefiner.buildGenres();
+		Map<String, String> gMap = CSVrefiner.buildGenreMap(genres);
+		//System.out.print(gMap.toString());
 		//TODO - build cast/crew list?
 		CSVrefiner.buildCSV(genres);	          	      
 	}
 	
+	private static Map<String, String> buildGenreMap(ArrayList<String> genres)
+	{
+		
+		int numVal = 0;
+		Map<String, String> gmap = new HashMap<String, String>();
+		for(String s : genres)
+		{	
+			gmap.put(s,Integer.toString(numVal));
+			numVal++;
+		}
+		
+		return gmap;
+	}
+	private static ArrayList<String> buildGenres() 
+	{
+		ArrayList<String> genres = new ArrayList<String>();
+		try(BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("genre.txt"), "UTF-8")))
+		{		
+			String ln;
+			while((ln = br.readLine()) != null)
+			{
+				if(ln.startsWith("\uFEFF"))
+				{
+					ln = ln.substring(1);
+				}
+				genres.add(ln);
+			}			
+			Collections.sort(genres);
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		return genres;
+	}
 	private static void buildCSV(ArrayList<String> genres) 
 	{
 		ArrayList<String> vals = new ArrayList<String>();
@@ -57,12 +96,9 @@ public class CSVrefiner
 			for(int i = 0; i < vals.size(); i++)
 			{
 				if(vals.get(i).equals("genres"))
-				{
-					for(String s : genres)
-					{
-						sb.append(s);
-						sb.append(",");
-					}
+				{		
+						sb.append("genre_val");
+						sb.append(",");	
 				}
 				else
 				{
@@ -75,7 +111,12 @@ public class CSVrefiner
 			
 			line = sb.toString();
 			writer.write(line);
+			writer.newLine();
 			
+			while((line = reader.readLine())!=null)
+			{
+				System.out.println(line);
+			}
 			
 			writer.close();
 			reader.close();
@@ -85,33 +126,7 @@ public class CSVrefiner
 		{
 			e.printStackTrace();
 		}
-		System.out.println(line);
+		//System.out.println(line);
 		
-	}
-
-	private static ArrayList<String> buildGenres() 
-	{
-		ArrayList<String> genres = new ArrayList<String>();
-		try(BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("genre.txt"), "UTF-8")))
-		{
-			
-			String ln;
-			while((ln = br.readLine()) != null)
-			{
-				if(ln.startsWith("\uFEFF"))
-				{
-					ln = ln.substring(1);
-				}
-				genres.add(ln);
-			}
-			
-			Collections.sort(genres);
-
-		}
-		catch(Exception e)
-		{
-			e.printStackTrace();
-		}
-		return genres;
 	}
 }
