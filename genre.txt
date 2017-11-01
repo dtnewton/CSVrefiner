@@ -10,12 +10,12 @@ Thriller
 Horror
 Animation
 History
-Science Fiction
+ScienceFiction
 Mystery
 War
 Foreign
 Documentary
 Music
 Western
-TV Movie
+TVMovie
 Kids

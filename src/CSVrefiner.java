@@ -9,31 +9,18 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-
 public class CSVrefiner
 {
+	public static final int NUM_COLS = 12;//this may change
+	
 	public static void main(String[] args)
 	{			
 		ArrayList<String> genres = CSVrefiner.buildGenres();
-		Map<String, String> gMap = CSVrefiner.buildGenreMap(genres);
-		//System.out.print(gMap.toString());
+		Map<String, Integer> gMap = CSVrefiner.buildGenreMap(genres);
+		System.out.print(gMap.toString());
 		//TODO - build cast/crew list?
-		CSVrefiner.buildCSV(genres);	          	      
-	}
-	
-	private static Map<String, String> buildGenreMap(ArrayList<String> genres)
-	{
-		
-		int numVal = 0;
-		Map<String, String> gmap = new HashMap<String, String>();
-		for(String s : genres)
-		{	
-			gmap.put(s,Integer.toString(numVal));
-			numVal++;
-		}
-		
-		return gmap;
-	}
+		CSVrefiner.buildCSV(gMap);	          	      
+	}	
 	private static ArrayList<String> buildGenres() 
 	{
 		ArrayList<String> genres = new ArrayList<String>();
@@ -56,7 +43,20 @@ public class CSVrefiner
 		}
 		return genres;
 	}
-	private static void buildCSV(ArrayList<String> genres) 
+	private static Map<String, Integer> buildGenreMap(ArrayList<String> genres)
+	{
+		
+		int numVal = 0;
+		Map<String, Integer> gmap = new HashMap<String, Integer>();
+		for(String s : genres)
+		{	
+			gmap.put(s,numVal);
+			numVal++;
+		}
+		
+		return gmap;
+	}
+	private static void buildCSV(Map<String, Integer> gMap) 
 	{
 		ArrayList<String> vals = new ArrayList<String>();
 		String line = null;
@@ -107,26 +107,83 @@ public class CSVrefiner
 				}
 				
 			}
-			
-			
+					
 			line = sb.toString();
 			writer.write(line);
 			writer.newLine();
+			vals.clear();
+			String[] fullLine;
 			
+			//*********************************************************************
 			while((line = reader.readLine())!=null)
 			{
-				System.out.println(line);
+				vals.clear();
+				fullLine = line.trim().split(",");
+				for(int i = 0; i < fullLine.length; i++)
+				{
+					vals.add(fullLine[i]);
+				}
+				for(int i = 0; i < vals.size();i++)
+				{
+					if(i != 1)
+					{
+						if(!(i == (vals.size() - 1)))
+						{
+							writer.write(vals.get(i));
+							writer.write(",");
+						}
+						else
+						{
+							writer.write(vals.get(i));
+						}
+					}
+					else
+					{	
+						int numericVal = 0;
+						if(vals.get(i).equals(""))
+						{
+							numericVal = 0;
+							writer.write(Integer.toString(numericVal));
+							writer.write(",");
+						}
+						else if(vals.get(i).contains("|"))
+						{
+							numericVal = 0;
+							String[] temp = vals.get(i).split("\\|");
+							//System.out.println(vals.get(i));
+							
+							ArrayList<String> innerList = new ArrayList<String>();
+							for(int j = 0; j < temp.length; j++)
+							{
+								innerList.add(temp[j]);
+								numericVal += gMap.get(temp[j]);
+
+							}
+												
+							writer.write(Integer.toString(numericVal));
+							writer.write(",");
+							
+						}
+						else
+						{
+							numericVal = 0;
+							numericVal = gMap.get(vals.get(i));
+							writer.write(Integer.toString(numericVal));
+							writer.write(",");
+						}
+					}
+				}
+
+				writer.newLine();
 			}
-			
+			//*********************************************************************
 			writer.close();
 			reader.close();
-
 		}
 		catch(Exception e)
 		{
 			e.printStackTrace();
 		}
-		//System.out.println(line);
-		
+		//System.out.println(line);	
 	}
 }
