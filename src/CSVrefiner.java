@@ -46,11 +46,11 @@ public class CSVrefiner
 		ArrayList<String> vals = new ArrayList<String>();
 		String line = null;
 			
-		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("movie_profiles_small.csv"), "UTF-8")))
+		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("movie_profiles_full_current.csv"), "UTF-8")))
 		{
 			File file = null;
 			try {
-				file = new File("movie_profiles_small_updated.csv");
+				file = new File("movie_profiles_full_updated.csv");
 				if(!file.exists())
 				{
 					file.createNewFile();
