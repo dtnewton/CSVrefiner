@@ -13,13 +13,13 @@ public class TextCleaner {
 		ArrayList<String> vals = new ArrayList<String>();
 		String line = null;
 
-		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("test_set_reduced_clean.arff"), "UTF-8")))
+		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("data/test_set_reduced_clean.arff"), "UTF-8")))
 		{
 			File file = null;
 
 			try
 			{
-				file = new File("test_set_reduced_rating_removed.csv");
+				file = new File("data/test_set_reduced_rating_removed.csv");
 				if(!file.exists())
 				{
 					file.createNewFile();
