@@ -1,4 +1,52 @@
-﻿rate_ave,Action,Adventure,Animation,Comedy,Crime,Documentary,Drama,Family,Fantasy,Foreign,History,Horror,Kids,Music,Mystery,Romance,ScienceFiction,TVMovie,Thriller,War,Western,popularity
+@relation movie_profiles_full_updated
+
+
+@attribute rate_ave numeric
+
+@attribute Action numeric
+
+@attribute Adventure numeric
+@attribute Animation numeric
+
+@attribute Comedy numeric
+
+@attribute Crime numeric
+
+@attribute Documentary numeric
+
+@attribute Drama numeric
+@attribute Family numeric
+
+@attribute Fantasy numeric
+@attribute Foreign numeric
+
+@attribute History numeric
+
+@attribute Horror numeric
+
+@attribute Kids numeric
+
+@attribute Music numeric
+
+@attribute Mystery numeric
+
+@attribute Romance numeric
+
+@attribute ScienceFiction numeric
+
+@attribute TVMovie numeric
+
+@attribute Thriller numeric
+
+@attribute War numeric
+
+@attribute Western numeric
+
+@attribute popularity numeric
+
+
+@data
+
 3.90782,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,27.8962
 3.21858,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,9.44499
 3.1808,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3.44296

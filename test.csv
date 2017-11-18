@@ -1,0 +1,809 @@
+rate_ave,mid,genres,revenue,rate_cnt,popularity
+,217,"[""Drama"", ""Thriller""]",0,1046,1.31697
+,218,"[""Comedy"", ""Drama""]",23450000,4354,1.73817
+,219,"[""Drama"", ""Family""]",0,655,0.51731
+,220,"[""Thriller"", ""Drama"", ""Horror"", ""Mystery""]",0,282,0.83821
+,222,"[""Drama"", ""Family"", ""Romance""]",0,6243,0.95231
+,223,"[""Comedy""]",3151130,24264,5.52493
+,224,"[""Romance"", ""Drama"", ""Comedy""]",22200000,8915,11.632
+,225,"[""Drama"", ""Thriller"", ""Crime"", ""Mystery"", ""Romance""]",0,13170,5.73075
+,227,"[""Action"", ""Adventure"", ""Thriller""]",28735315,4769,4.57919
+,228,"[""Crime"", ""Comedy"", ""Fantasy""]",0,482,0.00642
+,229,"[""Drama"", ""Thriller"", ""Mystery""]",0,2466,4.43216
+,230,"[""Mystery"", ""Drama"", ""Thriller"", ""Crime""]",0,7665,1.97505
+,231,"[""Comedy""]",247275374,34928,22.1576
+,232,"[""Comedy"", ""Drama"", ""Romance""]",7294403,6395,2.45883
+,233,"[""Drama"", ""Romance""]",0,3550,0.67452
+,234,"[""Comedy""]",6841570,3322,1.12838
+,235,"[""Comedy"", ""Drama"", ""History""]",5887457,16977,5.80544
+,236,"[""Comedy"", ""Romance""]",0,13231,2.89431
+,237,"[""Comedy"", ""Drama"", ""Romance""]",0,6669,1.57257
+,238,"[""Action"", ""Adventure"", ""Drama"", ""Family""]",0,856,0.11891
+,239,"[""Romance"", ""Animation"", ""Family"", ""Comedy"", ""Adventure""]",35348597,3561,13.7629
+,240,"[""Drama"", ""Thriller""]",12201255,847,1.09521
+,241,"[""Fantasy"", ""Drama"", ""Family""]",0,574,0.53306
+,242,"[""History"", ""Drama""]",0,1104,0.26522
+,243,"[""Drama"", ""Family"", ""Fantasy""]",3992809,463,0.00143
+,244,"[""Fantasy"", ""Animation"", ""Science Fiction"", ""Family""]",0,295,0.00143
+,245,"[""Drama"", ""Action"", ""Thriller"", ""Crime""]",0,260,0.01121
+,246,"[""Documentary""]",7830611,11073,1.13285
+,247,"[""Drama"", ""Fantasy""]",3049135,8070,1.98025
+,248,"[""Comedy"", ""Family""]",0,3214,0.00215
+,249,"[""Drama"", ""Music"", ""Romance""]",0,5101,0.89418
+,250,"[""Comedy"", ""Family"", ""Drama""]",17689177,937,1.69055
+,251,"[""Action"", ""Thriller""]",0,399,1.38297
+,252,"[""Comedy"", ""Drama"", ""Romance""]",0,10690,1.44724
+,253,"[""Horror"", ""Romance""]",223664608,28682,11.2481
+,254,"[""Drama"", ""Romance""]",2474000,643,0.00222
+,255,"[""Comedy"", ""Crime""]",0,1111,0.00143
+,256,"[""Comedy"", ""Romance""]",108,11082,2.09693
+,257,"[""Action"", ""Drama"", ""Mystery"", ""Thriller""]",0,3867,5.36807
+,258,"[""Adventure"", ""Fantasy"", ""Comedy"", ""Science Fiction"", ""Family""]",0,1755,0.81438
+,259,"[""Action"", ""Crime"", ""Drama"", ""Thriller""]",0,2031,1.59154
+,260,"[""Adventure"", ""Action"", ""Science Fiction""]",775398007,61723,63.3099
+,261,"[""Drama"", ""Romance""]",0,11626,2.12875
+,262,"[""Drama"", ""Family"", ""Fantasy""]",0,4815,1.34298
+,263,"[""Drama""]",0,402,0.00492
+,264,"[""Drama""]",0,164,0.8708
+,265,"[""Drama"", ""Romance""]",21665468,12477,4.06535
+,266,"[""Drama"", ""Romance"", ""War"", ""Western""]",160638883,16918,15.9805
+,267,"[""Comedy"", ""Family""]",0,4274,5.72648
+,268,"[""Drama"", ""Action""]",0,738,0.71582
+,269,"[""Drama""]",0,607,0.00242
+,270,"[""Drama"", ""Romance""]",0,1347,0.10404
+,271,"[""Drama""]",7603766,1289,2.53963
+,272,"[""Comedy"", ""Drama"", ""History""]",0,8280,2.57537
+,273,"[""Drama"", ""Horror"", ""Science Fiction"", ""Romance""]",112000000,8192,3.62977
+,274,"[""Action"", ""Comedy"", ""Family""]",0,1211,0.65508
+,275,"[""Comedy"", ""Drama"", ""Romance""]",0,1589,1.55234
+,276,"[""Comedy"", ""Romance""]",18137661,5642,1.4887
+,277,"[""Fantasy"", ""Drama"", ""Family""]",0,10850,2.6232
+,278,"[""Comedy"", ""Romance""]",0,1171,0.00167
+,279,"[""Comedy"", ""Drama""]",0,949,0.00161
+,280,"[""Crime"", ""Drama""]",0,5233,2.62888
+,281,"[""Drama"", ""Comedy""]",0,4025,1.63743
+,282,"[""Drama"", ""Thriller""]",106683817,12069,2.97426
+,283,"[""Crime"", ""Drama""]",0,239,0.00442
+,286,"[""Science Fiction"", ""Action"", ""Thriller""]",0,113,1.45296
+,287,"[""Drama"", ""Romance""]",0,333,0.00165
+,288,"[""Crime"", ""Thriller"", ""Drama""]",0,24444,6.95567
+,289,"[""Comedy"", ""Drama"", ""Romance""]",0,3289,2.58647
+,290,"[""Drama""]",6,4169,3.18925
+,291,"[""Drama"", ""Thriller"", ""Romance""]",0,683,2.23875
+,292,"[""Action"", ""Drama"", ""Science Fiction"", ""Thriller""]",189859560,27825,5.75645
+,293,"[""Thriller"", ""Crime"", ""Drama""]",45284974,26986,22.4447
+,294,"[""Comedy"", ""Drama"", ""Romance""]",2832826,860,0.00297
+,295,"[""Comedy"", ""Drama"", ""Romance""]",0,478,0.00373
+,296,"[""Thriller"", ""Crime""]",213928762,74418,27.8339
+,297,"[""Drama""]",6834525,271,0.0023
+,298,"[""Comedy"", ""Drama""]",152322,250,0.10125
+,299,"[""Drama""]",0,2692,0.00239
+,300,"[""History"", ""Drama""]",0,21280,2.36623
+,301,"[""Drama"", ""Foreign"", ""Romance""]",0,482,0.0053
+,302,"[""Drama"", ""History""]",0,1604,2.87355
+,303,"[""Action"", ""Adventure"", ""Drama"", ""Thriller"", ""Western""]",18552460,7555,5.79744
+,304,[],12400000,739,0.1472
+,305,"[""Drama"", ""Comedy""]",0,3498,3.61934
+,306,"[""Drama"", ""Mystery"", ""Romance""]",0,7946,6.90856
+,307,"[""Drama"", ""Mystery"", ""Music""]",0,7389,4.0237
+,308,"[""Comedy"", ""Drama"", ""Mystery""]",0,5619,3.24804
+,309,"[""Drama""]",0,465,0.00143
+,310,"[""Comedy"", ""Family"", ""TV Movie""]",0,257,0.01446
+,312,"[""Comedy"", ""Drama""]",0,1346,0.00196
+,313,"[""Fantasy"", ""Animation"", ""Comedy"", ""Family""]",0,1280,3.75655
+,314,"[""Drama"", ""Family"", ""Fantasy""]",0,4217,0.00455
+,315,"[""Action"", ""Thriller""]",170362582,12196,8.26226
+,316,"[""Action"", ""Adventure"", ""Science Fiction""]",196567262,34681,11.6327
+,317,"[""Fantasy"", ""Drama"", ""Comedy"", ""Family""]",189833357,16759,6.15722
+,318,"[""Drama"", ""Crime""]",28341469,70754,29.9424
+,319,"[""Comedy"", ""Thriller""]",0,7863,1.9808
+,320,"[""Drama"", ""Thriller""]",102,326,0.00172
+,321,"[""Comedy"", ""Drama""]",0,950,0.00698
+,322,"[""Crime"", ""Comedy""]",0,3040,0.8835
+,2070,"[""Drama"", ""Music"", ""Romance""]",0,1802,0.50301
+,2071,"[""Drama""]",0,1416,1.34732
+,2072,"[""Comedy"", ""Horror"", ""Thriller""]",36602000,3472,6.91605
+,2073,"[""Comedy"", ""Drama""]",0,630,0.09696
+,2074,"[""Drama""]",0,283,0.85061
+,2075,"[""Drama""]",0,605,1.44078
+,2076,"[""Crime"", ""Drama"", ""Mystery"", ""Thriller""]",8551228,9587,15.3597
+,2077,"[""Adventure""]",2135577,1070,0.00563
+,2078,"[""Family"", ""Animation"", ""Adventure""]",205843612,9545,25.7343
+,2079,"[""Action"", ""Adventure"", ""Drama"", ""Family""]",0,144,0.00149
+,2080,"[""Family"", ""Animation""]",93600000,11199,10.5597
+,2081,"[""Animation"", ""Family""]",211343479,15175,17.0445
+,2082,"[""Comedy"", ""Family""]",50752337,5039,3.80895
+,2083,"[""Comedy"", ""Family"", ""Fantasy"", ""Drama""]",27281507,3767,2.27982
+,2084,"[""Drama"", ""Music"", ""Family""]",0,1057,1.98861
+,2085,"[""Animation"", ""Adventure"", ""Comedy""]",215880014,8542,18.415
+,2086,"[""Drama"", ""Fantasy""]",0,216,0.02201
+,2087,"[""Animation"", ""Music"", ""Family"", ""Adventure"", ""Fantasy""]",29445131,7953,16.5491
+,2088,"[""Adventure"", ""Action"", ""Comedy"", ""Music"", ""Family""]",0,3723,0.75722
+,2089,"[""Adventure"", ""Fantasy"", ""Animation"", ""Crime""]",27931461,2550,13.301
+,2090,"[""Fantasy"", ""Family"", ""Animation"", ""Adventure""]",71215869,3004,10.3238
+,2091,"[""Adventure"", ""Fantasy"", ""Science Fiction"", ""Family""]",16393000,1220,0.89871
+,2092,"[""Romance"", ""Animation"", ""Family"", ""Fantasy"", ""Adventure""]",0,1961,10.6027
+,2093,"[""Adventure"", ""Fantasy"", ""Science Fiction"", ""Family""]",11137801,2034,1.52525
+,2094,"[""Action"", ""Adventure"", ""Science Fiction"", ""Family""]",62000000,7842,2.58631
+,2095,"[""Comedy"", ""Family""]",0,805,0.14849
+,2096,"[""Fantasy"", ""Animation"", ""Romance"", ""Family""]",51000000,6870,13.2051
+,2097,"[""Drama"", ""Family"", ""Fantasy"", ""Horror"", ""Mystery"", ""Science Fiction"", ""Thriller""]",5656087,1405,0.94596
+,2098,"[""Comedy"", ""Family"", ""Romance""]",0,482,1.42154
+,2099,"[""Animation"", ""Family"", ""Music""]",0,1417,2.08068
+,2100,"[""Comedy"", ""Fantasy"", ""Romance""]",69821334,13217,5.81696
+,2101,"[""Drama"", ""Family""]",3337685,158,0.00228
+,2102,"[""Animation"", ""Family"", ""Comedy""]",0,1334,0.06019
+,2103,"[""Adventure""]",0,226,1.28714
+,2104,"[""Drama""]",0,306,0.00002
+,2105,"[""Science Fiction"", ""Action"", ""Adventure""]",33000000,11187,10.2053
+,2106,"[""Music"", ""Drama""]",5632086,1594,3.92642
+,2107,"[""Horror"", ""Thriller""]",55041738,2389,5.01553
+,2108,"[""Comedy"", ""Drama"", ""Fantasy"", ""Romance""]",0,7555,3.25104
+,2109,"[""Comedy""]",73961419,7891,6.70579
+,2110,"[""Comedy"", ""Mystery""]",0,2612,1.90424
+,2111,"[""Comedy"", ""Romance"", ""Science Fiction""]",0,2288,3.20678
+,2112,"[""Drama""]",0,2710,2.32553
+,2113,"[""Drama"", ""Horror""]",11582891,530,2.33465
+,2114,"[""Crime"", ""Drama""]",25697647,3743,8.60957
+,2115,"[""Adventure"", ""Action""]",333000000,22161,25.678
+,2116,"[""Drama"", ""Animation"", ""Adventure""]",0,5857,4.50609
+,2117,"[""Drama"", ""Science Fiction"", ""Romance""]",0,3573,3.88682
+,2118,"[""Thriller"", ""Horror"", ""Science Fiction""]",0,3498,5.98023
+,2119,"[""Action"", ""Drama"", ""Horror"", ""Science Fiction""]",7433663,1302,3.21171
+,2120,"[""Action"", ""Drama"", ""Horror"", ""Thriller""]",0,1612,1.90434
+,2121,"[""Horror"", ""Thriller""]",0,1983,6.37137
+,2122,"[""Drama"", ""Fantasy"", ""Horror"", ""Thriller""]",14000000,2608,4.87196
+,2123,"[""Drama"", ""Animation"", ""Family"", ""Comedy"", ""Fantasy""]",27100027,2618,5.29239
+,2124,"[""Comedy"", ""Family""]",191502426,8954,7.77568
+,2125,"[""Drama"", ""Romance"", ""Comedy""]",65705772,6374,4.42585
+,2126,"[""Crime"", ""Mystery""]",103891409,5119,3.50931
+,2128,"[""Comedy"", ""Crime""]",0,245,0.00217
+,2130,"[""Crime"", ""Drama"", ""Romance""]",0,2113,0.30803
+,2131,"[""Music"", ""Drama""]",0,498,0.13061
+,2132,"[""Drama""]",33736689,3201,4.93034
+,2133,"[""Thriller"", ""Comedy"", ""Crime"", ""Adventure""]",34368475,4905,1.88769
+,2134,"[""Comedy"", ""Romance"", ""Fantasy""]",38934048,6336,5.38165
+,2135,"[""Adventure"", ""Fantasy"", ""Comedy"", ""Family"", ""Music"", ""Romance""]",9000000,2375,2.65127
+,2136,"[""Comedy"", ""Romance"", ""Family""]",0,3366,1.02002
+,2137,"[""Animation"", ""Drama"", ""Family""]",0,6286,1.59478
+,2138,"[""Fantasy"", ""Animation"", ""Drama"", ""Adventure""]",3713768,2895,8.95466
+,2139,"[""Fantasy"", ""Animation"", ""Drama"", ""Family""]",14665733,4998,2.88999
+,2140,"[""Fantasy""]",40577001,8931,3.53682
+,2141,"[""Drama"", ""Family"", ""Animation"", ""Adventure""]",84542002,5029,4.73496
+,2142,"[""Adventure"", ""Animation"", ""Family""]",0,2285,5.77503
+,2143,"[""Adventure"", ""Fantasy"", ""Action"", ""Romance""]",15502112,3222,10.9302
+,2144,"[""Comedy""]",23686027,9490,5.28745
+,2145,"[""Comedy"", ""Drama"", ""Romance""]",10103647,8477,2.05073
+,2146,"[""Drama"", ""Romance""]",37800000,3380,1.75832
+,2147,"[""Adventure"", ""Drama""]",0,1361,1.62952
+,2148,"[""Comedy"", ""Horror""]",0,1150,1.53561
+,2149,"[""Fantasy"", ""Horror"", ""Comedy""]",7800000,673,4.84904
+,2150,"[""Action"", ""Comedy""]",0,9879,2.5407
+,2151,"[""Action"", ""Comedy""]",0,1742,1.49219
+,2152,"[""Comedy"", ""Family""]",10224116,843,0.43404
+,2153,"[""Thriller""]",48522832,2857,2.60246
+,2154,"[""Comedy"", ""Drama"", ""Romance""]",37672350,1140,0.69467
+,2155,"[""Comedy"", ""Drama""]",0,1917,0.62245
+,2157,"[""Drama""]",0,135,0.00164
+,2158,"[""Crime"", ""Horror"", ""Thriller""]",0,219,0.00262
+,2159,"[""Horror"", ""Thriller"", ""Crime"", ""Drama""]",0,1643,1.81584
+,2160,"[""Horror"", ""Drama"", ""Mystery""]",33395426,8611,11.4145
+,2161,"[""Family"", ""Fantasy""]",20158808,11168,10.5478
+,2162,"[""Family"", ""Fantasy""]",16283667,2271,6.68819
+,2163,"[""Comedy"", ""Horror"", ""Science Fiction""]",0,1865,3.43283
+,2164,"[""Horror"", ""Science Fiction""]",0,224,0.00013
+,2165,"[""Drama"", ""Comedy""]",4710749,1008,0.00853
+,2166,"[""Drama"", ""Thriller"", ""Romance""]",0,1041,1.93812
+,2167,"[""Horror"", ""Action""]",112601065,12308,16.6209
+,2168,"[""Drama"", ""Romance"", ""Music""]",0,555,0.84634
+,2169,"[""Comedy""]",0,1147,0.22101
+,2170,"[""Action"", ""Adventure"", ""Comedy""]",0,922,2.08776
+,2171,"[""Comedy"", ""Drama"", ""Romance""]",0,1229,0.01507
+,2172,"[""Comedy""]",0,114,0.00582
+,2173,"[""Adventure"", ""Action"", ""Drama"", ""Fantasy"", ""Mystery""]",0,801,2.41893
+,2876,"[""Animation"", ""Drama"", ""Family"", ""Fantasy""]",11373501,457,3.26874
+,2877,"[""Drama"", ""Music""]",34251525,1739,1.50174
+,2878,"[""Horror""]",0,198,0.06863
+,2879,"[""Crime"", ""Action"", ""Comedy"", ""Thriller"", ""Adventure""]",0,1049,6.19544
+,2880,"[""Adventure"", ""Action"", ""Comedy""]",0,482,7.55858
+,2881,"[""Drama"", ""Mystery"", ""Thriller"", ""Crime""]",177841558,8923,3.41408
+,2882,"[""Comedy"", ""Drama"", ""History""]",0,1028,0.62596
+,2883,"[""Comedy"", ""Drama"", ""Romance""]",0,1904,0.01085
+,2884,"[""Romance"", ""Comedy""]",0,312,0.0062
+,2885,"[""Drama"", ""Romance""]",614202,576,0.00459
+,2886,"[""Family""]",0,405,0.76746
+,2887,"[""Action"", ""Comedy"", ""Thriller"", ""Foreign""]",0,116,0.22737
+,2888,"[""Drama"", ""Comedy"", ""Romance"", ""Family""]",17843379,1165,2.14914
+,2889,"[""Comedy"", ""Drama""]",8888143,1964,0.21075
+,2890,"[""Action"", ""Adventure"", ""Comedy""]",108000000,13329,3.25059
+,2891,"[""Comedy"", ""Crime""]",1943649,1427,0.77613
+,2892,"[""Mystery"", ""Drama"", ""Science Fiction""]",0,150,0.76903
+,2893,"[""Drama"", ""Action"", ""Comedy""]",0,507,0.30069
+,2894,"[""Romance"", ""Drama"", ""Comedy""]",0,544,0.02331
+,2896,"[""Action"", ""War"", ""Western""]",0,109,0.0047
+,2897,"[""Comedy"", ""Drama"", ""Foreign"", ""Music""]",0,186,0.04653
+,2898,"[""Mystery"", ""Horror""]",10611160,692,1.74393
+,2899,"[""Action"", ""Adventure"", ""Animation"", ""Family""]",0,703,2.17574
+,2900,"[""Thriller"", ""Drama"", ""Horror"", ""Science Fiction""]",5344577,920,1.34327
+,2901,"[""Horror""]",0,1847,3.6909
+,2902,"[""Horror"", ""Thriller""]",34725000,1153,2.28531
+,2903,"[""Horror"", ""Thriller""]",14481606,761,2.76554
+,2904,"[""Drama"", ""Romance""]",0,152,0.00145
+,2905,"[""Drama"", ""Action"", ""Comedy""]",0,1251,3.0274
+,2906,"[""Drama"", ""Mystery"", ""Romance""]",74608570,1759,5.16933
+,2907,"[""Comedy"", ""Family""]",0,1661,1.03332
+,2908,"[""Drama"", ""Crime"", ""Romance""]",11540607,8981,7.2922
+,2911,"[""Drama"", ""Foreign""]",0,106,0.00355
+,2912,"[""Drama"", ""Action"", ""Thriller"", ""Crime"", ""Mystery""]",3193102,3475,3.20007
+,2913,"[""Comedy"", ""Romance"", ""Science Fiction""]",0,218,1.64517
+,2914,"[""Drama"", ""Comedy"", ""Romance""]",0,140,0.04071
+,2915,"[""Comedy"", ""Romance""]",63500000,8932,3.26113
+,2916,"[""Action"", ""Adventure"", ""Science Fiction""]",261317921,21286,16.519
+,2917,"[""Drama"", ""Thriller"", ""Crime"", ""Romance""]",0,3928,3.37777
+,2918,"[""Drama"", ""Comedy""]",70136369,24046,12.9151
+,2919,"[""War"", ""Drama"", ""Romance""]",10278575,2885,1.65094
+,2920,"[""Drama"", ""Romance""]",0,1077,1.10471
+,2921,"[""Western""]",0,2631,2.59706
+,2922,"[""Action"", ""Drama"", ""Western""]",6800000,1676,2.84536
+,2923,"[""Comedy""]",0,138,0.00002
+,2924,"[""Action"", ""Comedy""]",0,2048,3.07187
+,2925,"[""Drama""]",0,835,4.52935
+,2926,"[""Drama"", ""Comedy"", ""Music"", ""Romance"", ""Family""]",0,3728,0.46701
+,2927,"[""Drama"", ""Romance""]",0,940,2.65242
+,2928,"[""Drama""]",0,542,0.21951
+,2929,"[""History"", ""Drama"", ""Romance""]",40382659,1445,0.79566
+,2931,"[""Comedy"", ""Crime"", ""Drama"", ""Fantasy""]",0,368,0.65115
+,2932,"[""Drama"", ""Romance""]",0,1410,1.87934
+,2933,"[""Drama"", ""Foreign""]",0,134,0.71555
+,2935,"[""Comedy"", ""Romance""]",0,1431,0.66873
+,2936,"[""Adventure"", ""Comedy"", ""Drama"", ""Romance""]",0,1442,2.16004
+,2937,"[""Comedy"", ""Romance""]",0,900,2.30705
+,2938,"[""Science Fiction"", ""Drama"", ""Foreign""]",0,276,0.00005
+,2939,"[""Drama"", ""Mystery"", ""Thriller""]",0,521,1.98614
+,2940,"[""Drama"", ""Romance"", ""Thriller""]",0,1037,1.90356
+,2941,"[""Music"", ""Romance"", ""War""]",36800000,2124,1.58115
+,2942,"[""Drama"", ""Music"", ""Romance""]",90463574,4267,3.59621
+,2943,"[""Drama"", ""Romance""]",0,1107,2.93205
+,2944,"[""Action"", ""Adventure"", ""War""]",45300000,7872,2.56839
+,2945,"[""Drama"", ""Mystery"", ""Thriller""]",0,149,0.00608
+,2946,"[""Comedy"", ""Music""]",0,2158,0.24789
+,2947,"[""Adventure"", ""Action"", ""Thriller""]",124900000,12211,16.0505
+,2948,"[""Action"", ""Thriller"", ""Adventure""]",78898765,7913,13.3234
+,2949,"[""Adventure"", ""Action"", ""Thriller""]",59600000,7913,14.9592
+,2950,"[""Romance"", ""Adventure"", ""Drama""]",58853106,4117,6.82685
+,2951,"[""Western""]",14000000,6933,10.0379
+,2952,"[""Drama"", ""Thriller""]",222559,1826,3.60047
+,2953,"[""Comedy"", ""Family"", ""Adventure"", ""Crime""]",358991681,7410,15.1746
+,2956,"[""Crime"", ""Drama"", ""Romance"", ""Thriller""]",10278549,939,1.32296
+,2959,"[""Drama""]",100853753,43707,23.601
+,2961,"[""Comedy"", ""Drama"", ""Romance""]",0,1984,2.63147
+,2962,"[""Comedy"", ""Romance""]",0,501,1.16841
+,2963,"[""Crime"", ""Drama""]",0,128,0.79131
+,2964,"[""Comedy"", ""Drama""]",0,237,0.0023
+,2965,"[""Horror"", ""Thriller""]",2400000,438,0.6286
+,2966,"[""Drama""]",0,3888,2.97701
+,2967,"[""Drama"", ""Horror"", ""Thriller""]",0,867,0.06134
+,2968,"[""Family"", ""Fantasy"", ""Science Fiction"", ""Adventure"", ""Comedy""]",42365581,9374,4.08037
+,2969,"[""Drama"", ""Foreign"", ""Romance""]",0,667,1.42028
+,2970,"[""Action"", ""Adventure"", ""Drama""]",0,1329,2.90249
+,2971,"[""Drama"", ""Music""]",37823676,2351,3.75653
+,2972,"[""Drama"", ""War""]",0,517,0.94318
+,2973,"[""Comedy"", ""Drama""]",0,4069,2.53167
+,2974,"[""Horror"", ""Thriller""]",0,659,0.76928
+,2975,"[""Drama"", ""Comedy""]",34573780,653,1.98795
+,2976,"[""Drama"", ""Thriller""]",0,3817,3.48256
+,2977,"[""Comedy"", ""Drama""]",0,431,0.14359
+,2978,"[""Comedy"", ""Romance""]",0,1044,3.15367
+,2979,"[""Drama"", ""Romance""]",239894,336,0.21216
+,2982,"[""Drama"", ""Horror"", ""Mystery"", ""Thriller""]",0,192,0.43478
+,2983,"[""Thriller""]",0,729,0.99969
+,2984,"[""Documentary""]",0,148,0.13668
+,2985,"[""Action"", ""Thriller"", ""Science Fiction""]",53000000,14768,13.7689
+,2986,"[""Action"", ""Adventure"", ""Crime"", ""Science Fiction"", ""Thriller""]",45681173,5566,7.54539
+,2987,"[""Fantasy"", ""Animation"", ""Comedy"", ""Crime"", ""Family""]",329803958,22547,13.3203
+,2988,"[""Comedy"", ""Drama""]",0,727,0.34599
+,4500,"[""Comedy"", ""Drama""]",0,333,2.39289
+,4501,"[""Fantasy"", ""Horror"", ""Comedy"", ""Science Fiction""]",5596267,429,1.32513
+,4502,"[""Comedy"", ""Family""]",28202109,769,0.62076
+,4503,"[""Drama"", ""Romance""]",0,161,0.00396
+,4504,"[""Action"", ""Comedy"", ""Family""]",3527636,207,0
+,4505,"[""Drama"", ""Family"", ""Romance""]",17514553,169,0.35357
+,4506,"[""Thriller"", ""Action"", ""Crime"", ""Drama"", ""Mystery""]",17637950,1057,3.43473
+,4508,"[""Drama""]",0,1478,2.73454
+,4509,"[""Comedy""]",0,841,3.54922
+,4511,"[""Fantasy"", ""Comedy"", ""Science Fiction""]",7399763,174,2.07085
+,4512,"[""Comedy""]",6436211,152,0.70426
+,4514,"[""Horror""]",0,140,0.00201
+,4515,"[""Documentary"", ""Music""]",0,442,0.00001
+,4516,"[""Comedy""]",0,279,0.62583
+,4517,"[""Horror"", ""Thriller""]",0,309,0.14234
+,4518,"[""Comedy"", ""Horror""]",1189315,533,1.03368
+,4519,"[""Animation"", ""Adventure"", ""Family""]",84460846,2050,10.483
+,4520,"[""Comedy"", ""Family""]",22433275,490,0.79778
+,4521,"[""Drama"", ""Action"", ""Thriller""]",0,193,0.00003
+,4522,"[""Drama"", ""Mystery"", ""Romance"", ""Thriller""]",0,161,0.06555
+,4523,"[""Comedy"", ""Drama""]",0,515,0.07397
+,4524,"[""Action"", ""Comedy"", ""Drama"", ""Romance""]",0,351,0.50625
+,4525,"[""Comedy""]",0,132,1.43559
+,4526,"[""Comedy"", ""Science Fiction""]",13854000,995,2.89742
+,4527,"[""Drama"", ""Romance""]",6264058,164,0.00175
+,4529,"[""Comedy"", ""Drama""]",3587303,687,1.25357
+,4531,"[""Comedy"", ""Action"", ""Crime""]",34994648,907,7.97756
+,4532,"[""Comedy"", ""Horror""]",9205924,377,2.02224
+,4533,"[""Comedy"", ""Horror""]",14237000,1120,4.07018
+,4534,"[""Adventure"", ""Drama"", ""Action"", ""Western"", ""Family""]",0,282,0.02402
+,4535,"[""Drama"", ""Action"", ""Western"", ""Romance""]",0,1129,0.37514
+,4537,"[""Drama""]",2835116,527,0.00306
+,4540,"[""Comedy""]",8,122,0.54818
+,4541,"[""Horror"", ""Thriller""]",19595031,787,0.42779
+,4543,"[""Crime"", ""Action"", ""Adventure"", ""Thriller""]",29300000,293,1.75759
+,4544,"[""Comedy"", ""Family"", ""Science Fiction"", ""Drama""]",0,1643,4.49559
+,4545,"[""Comedy"", ""Family"", ""Science Fiction""]",40697761,3443,4.50194
+,4546,"[""Horror"", ""Thriller""]",0,1410,1.40286
+,4552,"[""Horror"", ""Science Fiction""]",0,502,2.18964
+,4553,"[""Horror"", ""Action"", ""Thriller"", ""Science Fiction""]",13008928,1652,5.76747
+,4555,"[""Drama"", ""Comedy"", ""Romance""]",4800000,439,0.00018
+,4557,"[""Drama""]",0,927,1.4735
+,4558,"[""Comedy"", ""Drama""]",216600000,3151,7.48165
+,4559,"[""Comedy"", ""Fantasy""]",0,357,0.18513
+,4560,"[""Action"", ""Horror"", ""Science Fiction"", ""Thriller""]",0,140,1.78844
+,4561,"[""Horror"", ""Comedy""]",0,209,1.29356
+,4562,"[""Comedy"", ""Thriller"", ""Crime"", ""Mystery""]",0,316,2.53252
+,4563,"[""Comedy"", ""Science Fiction""]",0,878,0.00006
+,4564,"[""Fantasy"", ""Drama"", ""Romance""]",74134790,1100,4.15949
+,4565,"[""Action"", ""Adventure""]",0,588,2.9198
+,4566,"[""Action"", ""Adventure"", ""Drama""]",0,281,1.70224
+,4567,"[""Action"", ""Adventure"", ""Drama""]",0,195,2.47023
+,4569,"[""Action"", ""Thriller""]",6500000,153,0.68088
+,4570,"[""Comedy"", ""Drama"", ""Romance""]",117463,303,1.61622
+,4571,"[""Adventure"", ""Comedy"", ""Science Fiction""]",40485039,9006,3.90942
+,4572,"[""Action"", ""Thriller"", ""Crime""]",45892212,1186,5.76528
+,4573,"[""Drama"", ""Romance""]",19131000,201,0.32643
+,4574,"[""Action"", ""Thriller""]",2345628,355,3.30787
+,4577,"[""Drama"", ""History"", ""War""]",22500000,751,4.32857
+,4578,"[""Fantasy"", ""Comedy"", ""Science Fiction"", ""Romance""]",0,447,2.82979
+,4580,"[""Action"", ""Science Fiction""]",10166459,541,4.61338
+,4581,"[""Drama""]",19738015,119,0.20901
+,4584,"[""Fantasy"", ""Comedy"", ""Science Fiction"", ""Romance""]",0,256,0.00019
+,4585,"[""Comedy""]",0,468,2.68069
+,4586,"[""Drama"", ""Mystery""]",0,120,2.03678
+,4587,"[""Comedy"", ""Drama"", ""Romance"", ""Science Fiction""]",3916303,1534,3.11541
+,4588,"[""Drama"", ""Thriller"", ""Music""]",0,145,0.00827
+,4589,"[""Drama"", ""Music""]",4685097,545,0.30464
+,4590,"[""Comedy"", ""Drama"", ""Romance""]",7754571,131,0.00001
+,4591,"[""Adventure"", ""Fantasy"", ""Comedy""]",0,557,3.40472
+,4593,"[""Action"", ""Comedy"", ""Crime"", ""Drama"", ""Thriller""]",0,283,2.36676
+,4595,"[""War"", ""Drama"", ""History""]",0,309,1.12045
+,4597,"[""Drama""]",2777280,318,0.08084
+,4598,"[""Comedy""]",0,122,0.36305
+,4599,"[""Drama""]",0,605,0.86003
+,4600,"[""Comedy"", ""Drama"", ""Romance""]",0,344,0.00003
+,4602,"[""Action"", ""Comedy"", ""Crime"", ""Drama"", ""Thriller""]",60864870,477,0.95188
+,4603,"[""Action"", ""Comedy"", ""Romance""]",0,431,0.89866
+,4605,"[""Comedy"", ""Fantasy"", ""Foreign""]",0,412,0.8794
+,4608,"[""Action"", ""Crime"", ""Drama"", ""Thriller""]",20047604,139,0.07598
+,4609,"[""Drama""]",0,131,0.62869
+,4610,"[""Action"", ""Comedy"", ""Crime"", ""Mystery"", ""Thriller""]",0,257,1.77653
+,4611,"[""Crime"", ""Drama""]",7237794,142,1.33798
+,4612,"[""Drama""]",0,585,0.00695
+,4613,"[""Action"", ""Adventure"", ""Comedy"", ""Crime""]",78247647,816,4.57182
+,4614,"[""Action"", ""Thriller""]",14697005,652,6.6058
+,4615,"[""Drama""]",0,208,2.20741
+,4616,"[""Drama""]",0,1737,0.05784
+,4617,"[""Comedy""]",0,240,0.09778
+,4618,"[""Adventure"", ""Horror"", ""Action"", ""Thriller"", ""Science Fiction""]",15704614,611,3.84264
+,4619,"[""Adventure"", ""Fantasy"", ""Comedy"", ""Family""]",0,378,1.95501
+,4620,"[""Action"", ""Adventure"", ""Crime"", ""Drama"", ""Thriller""]",0,232,6.52373
+,4621,"[""Comedy"", ""Romance""]",296000000,3753,5.25173
+,4622,"[""Comedy"", ""Romance""]",3960327,305,0.44265
+,4623,"[""Comedy""]",49797148,3943,3.56336
+,4624,"[""Comedy"", ""Music""]",0,843,0.27873
+,4625,"[""Mystery"", ""Drama"", ""Science Fiction"", ""Thriller""]",0,347,1.0648
+,4626,"[""Romance"", ""Action"", ""Drama"", ""Science Fiction"", ""Thriller""]",1145404,276,0.89256
+,4627,"[""Comedy""]",0,200,0.00039
+,4628,"[""Comedy"", ""Drama"", ""Romance""]",0,643,2.11915
+,4629,"[""Adventure"", ""Drama"", ""Action"", ""Thriller""]",15942628,328,1.61747
+,6959,"[""Action"", ""Adventure"", ""Science Fiction""]",19480739,938,6.31113
+,6961,"[""Drama"", ""Romance""]",7532911,150,3.47621
+,6963,"[""Documentary""]",0,416,0.00287
+,6966,"[""Action"", ""Science Fiction"", ""Crime""]",48878502,1315,6.07469
+,6967,"[""Comedy"", ""Horror"", ""Thriller"", ""Mystery""]",0,172,0.02391
+,6969,"[""Action"", ""Foreign"", ""Science Fiction"", ""Thriller""]",0,104,1.2152
+,6970,"[""Comedy"", ""Romance""]",0,504,0.25313
+,6971,"[""Drama"", ""Thriller"", ""Foreign""]",0,398,1.00137
+,6973,"[""Drama"", ""Thriller"", ""Romance""]",28590665,166,1.50209
+,6974,"[""Comedy"", ""Crime""]",0,879,0.14802
+,6975,"[""Drama"", ""Horror"", ""Thriller""]",0,882,3.31332
+,6976,"[""Horror""]",0,162,2.10494
+,6977,"[""Thriller"", ""Crime"", ""Drama""]",47624253,517,0.89737
+,6978,"[""Comedy""]",0,613,0.70205
+,6979,"[""Thriller"", ""Science Fiction""]",79567667,4922,5.95212
+,6980,"[""Comedy"", ""Family""]",0,106,0.91997
+,6981,"[""Drama""]",0,164,0.00681
+,6982,"[""Drama"", ""History""]",0,192,4.53012
+,6983,"[""Drama"", ""Romance""]",0,244,1.3262
+,6984,"[""Action"", ""Drama""]",0,232,0.00483
+,6985,"[""Drama"", ""History""]",0,788,1.68106
+,6986,"[""Adventure"", ""Drama""]",0,779,0.71485
+,6987,"[""Drama"", ""Horror"", ""Thriller"", ""Crime""]",0,1431,2.39085
+,6988,"[""Drama"", ""Romance""]",0,149,1.03922
+,6989,"[""Thriller"", ""Crime"", ""Drama""]",16175602,572,4.23634
+,6990,"[""Thriller"", ""Adventure"", ""Drama"", ""Crime""]",0,380,3.53324
+,6991,"[""Adventure"", ""Drama"", ""Action"", ""Romance""]",0,495,2.7784
+,6992,"[""Comedy"", ""Drama"", ""Thriller""]",0,458,0.85298
+,6993,"[""Comedy"", ""Drama""]",40084041,2270,2.80118
+,6994,"[""Action"", ""Adventure"", ""Comedy"", ""Crime""]",65,199,9.78781
+,6995,"[""Action"", ""Adventure"", ""Comedy"", ""Fantasy"", ""Science Fiction""]",0,208,1.07229
+,6996,"[""Action"", ""Fantasy"", ""Science Fiction""]",15556340,1244,3.347
+,6997,"[""Crime"", ""History""]",0,403,3.49931
+,6998,"[""Drama""]",0,151,2.0397
+,6999,"[""Comedy"", ""Romance""]",0,370,1.60922
+,7000,"[""Action"", ""Adventure"", ""Comedy""]",17218080,1111,5.24347
+,7001,"[""Horror"", ""Thriller"", ""Science Fiction"", ""Mystery""]",24046533,1547,2.9607
+,7003,"[""Mystery"", ""Drama"", ""Science Fiction"", ""Thriller"", ""Comedy""]",0,318,1.42974
+,7004,"[""Action"", ""Comedy"", ""Thriller""]",201957688,3436,2.67683
+,7005,"[""Comedy"", ""Family""]",0,571,3.2776
+,7007,"[""Adventure"", ""Action"", ""Comedy"", ""Thriller""]",59509925,1393,10.5288
+,7008,"[""Drama"", ""Romance""]",36144000,841,10.1569
+,7009,"[""Drama""]",7286388,618,1.25524
+,7010,"[""Drama"", ""Romance""]",0,295,3.73482
+,7011,"[""Comedy"", ""Drama"", ""Thriller""]",0,184,1.7288
+,7012,"[""Fantasy"", ""Comedy"", ""Science Fiction"", ""Romance""]",15379253,239,2.47147
+,7013,"[""Thriller"", ""Crime""]",0,1492,3.7312
+,7014,"[""Action"", ""Adventure"", ""Drama"", ""Thriller""]",0,160,3.86773
+,7015,"[""Comedy"", ""Romance""]",21830957,173,0.00021
+,7016,"[""Action"", ""Drama""]",16057580,402,5.8413
+,7017,"[""Action"", ""Adventure"", ""Thriller""]",44065653,869,1.86028
+,7018,"[""Drama"", ""Thriller"", ""Crime"", ""Mystery""]",0,1183,4.4463
+,7019,"[""Action"", ""Comedy"", ""Drama"", ""Science Fiction""]",18532286,285,0.742
+,7020,"[""Drama""]",524668,362,0.73093
+,7021,"[""Comedy"", ""Crime"", ""Mystery""]",0,123,0.82942
+,7022,"[""Drama"", ""Thriller"", ""Adventure""]",0,4997,6.5704
+,7023,"[""Comedy"", ""Drama"", ""Romance""]",6933459,870,1.31055
+,7024,"[""Drama""]",0,384,8.20894
+,7025,"[""Drama"", ""History""]",0,413,1.07387
+,7026,"[""Comedy""]",35114428,455,2.22336
+,7027,"[""Western"", ""Action"", ""Crime"", ""Drama""]",0,1355,1.60937
+,7028,"[""Comedy"", ""Crime""]",0,671,1.50174
+,7029,"[""Horror"", ""Science Fiction""]",0,207,1.89975
+,7030,"[""Drama""]",4651977,357,1.24793
+,7031,"[""Action"", ""Crime"", ""Drama"", ""Thriller""]",0,138,2.41428
+,7032,"[""Drama"", ""Romance"", ""Crime""]",15535771,126,1.77509
+,7033,"[""Comedy""]",67000000,574,2.77384
+,7034,"[""Drama"", ""Comedy"", ""Romance"", ""Foreign""]",0,1782,5.91293
+,7035,"[""Action"", ""Thriller"", ""Music""]",0,183,2.16211
+,7036,"[""Comedy"", ""Fantasy"", ""Romance""]",0,1138,4.06778
+,7037,"[""Comedy"", ""Drama"", ""Romance""]",1710057,200,1.42608
+,7038,"[""Drama"", ""Romance""]",0,188,0.3008
+,7039,"[""Action"", ""Adventure"", ""Crime"", ""Mystery"", ""Thriller""]",0,316,1.11483
+,7040,"[""Action"", ""Crime"", ""Thriller""]",17307019,633,2.06553
+,7041,"[""Action"", ""Comedy""]",5777916,156,2.73322
+,7042,"[""Drama"", ""Romance""]",2003822,463,3.61358
+,7043,"[""Drama""]",0,329,0.66714
+,7044,"[""Comedy"", ""Crime"", ""Thriller""]",14560247,1589,6.22265
+,7045,"[""Adventure"", ""Fantasy"", ""Horror""]",0,970,4.52973
+,7046,"[""Fantasy"", ""Horror"", ""Comedy""]",63766510,1970,1.49325
+,7047,"[""Action"", ""Crime"", ""Drama"", ""Thriller""]",0,159,2.091
+,7048,"[""Action"", ""Adventure"", ""Comedy""]",0,437,1.0071
+,7050,"[""Comedy"", ""Music"", ""Romance""]",0,119,0.00164
+,7051,"[""Comedy"", ""Romance""]",0,203,0.42494
+,7054,"[""Drama"", ""Family"", ""Romance""]",0,216,1.8542
+,7055,"[""Comedy"", ""Music"", ""Romance""]",2600000,311,0.70257
+,7056,"[""Drama"", ""Action"", ""Crime""]",0,471,0.65101
+,7057,"[""Fantasy"", ""Comedy"", ""Science Fiction"", ""Romance""]",0,128,0.02943
+,7058,"[""Comedy"", ""Family""]",0,250,0.00213
+,7059,"[""Drama"", ""Family""]",0,315,0.00309
+,7060,"[""Drama"", ""History"", ""Music""]",13200000,907,1.93209
+,7061,"[""Drama"", ""Romance""]",0,226,2.97189
+,7062,"[""Drama""]",0,604,3.05571
+,7063,"[""Adventure"", ""Drama"", ""History""]",0,1343,2.53731
+,7064,"[""Drama"", ""Fantasy"", ""Romance""]",0,1000,2.68796
+,7065,"[""Drama"", ""History""]",10000000,369,0.90885
+,7067,"[""Fantasy"", ""Drama"", ""Comedy"", ""Foreign""]",0,305,0.79658
+,7068,"[""Drama"", ""Romance""]",0,312,2.32438
+,7069,"[""War"", ""Drama"", ""History""]",0,298,2.85005
+,7070,"[""Action"", ""Western""]",0,548,2.59319
+,7071,"[""Drama""]",0,317,0.6336
+,32562,"[""Animation"", ""Comedy""]",0,115,0.0167
+,32582,"[""Documentary""]",0,262,0.00503
+,32584,"[""Drama""]",712294,153,1.25609
+,32587,"[""Action"", ""Thriller"", ""Crime""]",158733820,16323,18.1413
+,32589,"[""Comedy"", ""Romance""]",36351350,201,1.55916
+,32591,"[""Drama"", ""Comedy""]",0,156,1.28207
+,32596,"[""Action"", ""Adventure"", ""Comedy"", ""Drama"", ""Mystery""]",119269486,1362,5.5593
+,32598,"[""Comedy"", ""Drama"", ""Romance""]",42071069,997,5.54322
+,32627,"[""Comedy""]",0,107,0.07101
+,32657,"[""Animation"", ""Drama""]",0,210,1.46496
+,32721,"[""Action"", ""Drama"", ""History"", ""War""]",0,121,1.07486
+,32743,"[""Drama"", ""Horror"", ""Thriller""]",0,108,0.77659
+,32770,"[""Drama""]",0,153,0.41133
+,32825,"[""Science Fiction"", ""Adventure"", ""Comedy""]",0,160,1.28244
+,32840,"[""Animation"", ""Drama"", ""Fantasy""]",0,295,2.63895
+,32853,"[""Documentary"", ""History"", ""War"", ""Foreign""]",0,133,0.00198
+,32892,"[""Drama"", ""War""]",0,321,2.3044
+,32898,"[""Science Fiction"", ""Adventure"", ""Fantasy""]",0,293,2.37432
+,32943,"[""Comedy"", ""Drama""]",0,142,0.79141
+,33004,"[""Adventure"", ""Comedy"", ""Family"", ""Science Fiction""]",104478416,6418,11.1924
+,33036,"[""Action"", ""Adventure"", ""Crime"", ""Drama"", ""Mystery"", ""Thriller""]",0,185,0.78536
+,33072,"[""Documentary""]",0,196,0.80069
+,33085,"[""Horror"", ""Thriller"", ""Drama""]",108047131,906,9.91233
+,33124,"[""Drama""]",3764219,118,3.59029
+,33138,"[""Comedy"", ""Drama""]",0,375,0.01646
+,33145,"[""Comedy"", ""Drama"", ""Romance""]",42886719,542,8.24533
+,33154,"[""Documentary""]",0,1266,2.3514
+,33158,"[""Action"", ""Crime"", ""Adventure""]",71073932,828,10.5746
+,33162,"[""Drama"", ""Action"", ""Adventure"", ""History"", ""War""]",211643158,2690,10.2393
+,33164,"[""Horror""]",68766121,784,11.76
+,33166,"[""Drama""]",98410061,9378,6.36203
+,33171,"[""Drama""]",1524966,996,2.45567
+,33288,"[""Drama""]",0,146,1.5782
+,33312,"[""Comedy""]",0,239,0.00207
+,33358,"[""Drama""]",0,162,0.23623
+,33421,"[""Comedy"", ""Crime"", ""Drama"", ""Romance""]",0,170,1.14207
+,33437,"[""Action"", ""Crime""]",50871113,1433,6.11864
+,33451,"[""Comedy"", ""Drama""]",0,139,0.68674
+,33463,"[""Adventure"", ""Animation"", ""Family"", ""Comedy"", ""Fantasy""]",0,102,4.13881
+,33493,"[""Science Fiction"", ""Adventure"", ""Action""]",850000000,12932,27.2376
+,33495,"[""Comedy"", ""Family""]",56070433,420,1.53178
+,33499,"[""Comedy"", ""Romance""]",154749918,693,4.15857
+,33539,"[""Documentary""]",0,126,2.68393
+,33558,"[""Action"", ""Adventure"", ""Drama""]",0,106,0.91759
+,33564,"[""Comedy"", ""Foreign""]",0,183,1.50645
+,33585,"[""Drama"", ""Music"", ""Romance""]",332323,293,11.4904
+,33615,"[""Family"", ""Animation""]",532680671,3777,27.7541
+,33621,"[""Drama"", ""Foreign"", ""Romance""]",0,112,1.33712
+,33639,"[""Documentary"", ""Family""]",0,604,0.00806
+,33644,"[""Horror"", ""Thriller"", ""Drama""]",0,127,5.63608
+,33646,"[""Comedy"", ""Drama""]",190320568,1336,10.0092
+,33649,"[""Comedy"", ""Romance""]",0,298,0.24209
+,33660,"[""Drama"", ""History"", ""Romance""]",108539911,4485,2.74841
+,33669,"[""Adventure"", ""Comedy"", ""Drama"", ""Family""]",39053061,894,2.82493
+,33672,"[""Action"", ""Drama""]",0,570,1.48291
+,33677,"[""Action"", ""Documentary"", ""Music""]",0,223,0.00445
+,33679,"[""Action"", ""Comedy"", ""Drama"", ""Thriller""]",478207520,7267,8.74685
+,33681,"[""Adventure"", ""Fantasy"", ""Action"", ""Family""]",69425966,331,6.17057
+,33683,"[""Horror"", ""Thriller"", ""Mystery""]",0,544,3.33587
+,33722,"[""Drama"", ""Romance""]",0,151,1.2683
+,33725,"[""Drama"", ""Comedy"", ""Music""]",120620,258,1.9014
+,33779,"[""Comedy"", ""Foreign""]",0,276,0.02302
+,33794,"[""Action"", ""Crime"", ""Drama""]",374218673,20041,36.2172
+,33815,"[""Comedy"", ""Drama"", ""Family"", ""Romance""]",0,206,3.07515
+,33817,"[""Drama"", ""Thriller"", ""Romance""]",0,353,2.64996
+,33819,"[""Drama"", ""Romance""]",0,147,0.04938
+,33826,"[""Comedy"", ""Drama""]",0,191,0.14782
+,33830,"[""Comedy"", ""Family"", ""Adventure"", ""Fantasy"", ""Romance""]",66002004,522,6.47099
+,33834,"[""Horror""]",46770602,1249,6.2781
+,33836,"[""Comedy"", ""Fantasy"", ""Romance""]",63313159,1470,4.78983
+,33838,"[""Documentary""]",0,176,0.00956
+,33880,"[""Comedy"", ""Drama"", ""Romance""]",0,1214,0.5965
+,33893,"[""Comedy"", ""Thriller"", ""Crime"", ""Foreign""]",0,174,0.65216
+,33896,"[""Horror""]",0,443,2.06184
+,33903,"[""Drama"", ""Comedy""]",0,1005,2.37289
+,33966,"[""Action"", ""Comedy"", ""Family""]",0,112,0.00344
+,34048,"[""Adventure"", ""Thriller"", ""Science Fiction""]",591739379,6926,17.3698
+,34072,"[""Documentary"", ""Family""]",127392239,3013,3.31221
+,34143,"[""Drama"", ""Horror"", ""Thriller""]",25473093,655,3.52644
+,34148,"[""Drama"", ""Thriller""]",0,281,2.5501
+,34150,"[""Action"", ""Adventure"", ""Fantasy"", ""Science Fiction""]",330000000,4107,17.8167
+,34153,"[""Documentary""]",1750211,965,0.00863
+,34155,"[""Music"", ""Drama""]",0,156,0.09981
+,34162,"[""Comedy"", ""Romance""]",285176741,7567,9.4762
+,34164,"[""Comedy"", ""Drama"", ""Romance""]",0,265,2.80575
+,34198,"[""Comedy"", ""Drama"", ""Romance""]",23727301,263,3.10697
+,34271,"[""Drama""]",22201636,829,3.17385
+,34292,"[""Science Fiction"", ""Thriller"", ""Horror""]",5728953,138,3.14332
+,34319,"[""Action"", ""Thriller"", ""Science Fiction"", ""Adventure""]",162949164,4605,9.56172
+,34321,"[""Comedy"", ""Family""]",34252847,449,0.90414
+,34323,"[""Drama"", ""Horror"", ""Crime""]",0,806,6.88554
+,34326,"[""Drama""]",1928985,232,0.50827
+,34332,"[""Adventure"", ""Comedy"", ""Family""]",86369815,1003,4.70498
+,34334,"[""Action""]",76932943,735,4.64797
+,34336,"[""Comedy"", ""Romance""]",58405313,810,2.04555
+,34338,"[""Comedy"", ""Documentary""]",0,1327,0.35995
+,34359,"[""Drama"", ""Comedy"", ""Romance""]",0,132,0.00275
+,34405,"[""Science Fiction"", ""Action"", ""Adventure"", ""Thriller""]",38869464,8283,10.8896
+,34437,"[""Comedy"", ""Drama"", ""Mystery"", ""Romance""]",45742101,3064,9.35162
+,34482,"[""Drama""]",0,124,0.00165
+,56715,"[""Comedy"", ""Drama"", ""Romance""]",0,1084,0.71198
+,56757,"[""Drama"", ""Horror"", ""Music""]",152000000,3889,13.3811
+,56775,"[""Action"", ""Adventure"", ""Mystery"", ""Thriller""]",457363168,2204,10.9603
+,56782,"[""Drama""]",76181545,5647,6.92742
+,56788,"[""Comedy"", ""Drama"", ""History""]",119000410,2175,2.97416
+,56801,"[""Fantasy"", ""Action"", ""Science Fiction"", ""Thriller"", ""Horror""]",41797066,1246,13.2531
+,56805,"[""Comedy"", ""Music""]",18317151,777,3.25342
+,56885,"[""Drama""]",30226144,524,2.75405
+,56908,"[""Comedy"", ""Drama"", ""Romance""]",0,155,1.40551
+,56915,"[""Fantasy"", ""Adventure"", ""Family""]",103071443,258,6.89115
+,56921,"[""Science Fiction"", ""Action"", ""Drama"", ""Thriller""]",0,1015,2.78231
+,56941,"[""Drama"", ""Romance""]",156835339,1280,8.23653
+,56949,"[""Comedy"", ""Romance""]",160300000,2364,9.84303
+,57147,"[""Crime"", ""Drama"", ""Thriller""]",0,356,2.89266
+,57223,"[""Fantasy"", ""Drama"", ""Horror"", ""Action"", ""Thriller"", ""Science Fiction""]",53587404,210,4.7523
+,57243,"[""Comedy"", ""Drama""]",0,333,1.99104
+,57274,"[""Horror"", ""Mystery""]",32492948,1161,11.2578
+,57326,"[""Adventure"", ""Fantasy"", ""Action"", ""Drama""]",0,257,4.37186
+,57353,"[""Crime"", ""Drama"", ""Thriller""]",6819587,237,3.1524
+,57368,"[""Action"", ""Thriller"", ""Science Fiction""]",170764026,3706,12.6018
+,57370,"[""Action"", ""Comedy"", ""Crime""]",0,147,3.69023
+,57401,"[""Crime"", ""Thriller"", ""Mystery""]",0,252,3.76534
+,57464,"[""Romance"", ""Comedy"", ""Drama""]",0,271,1.15531
+,57502,"[""Fantasy"", ""Animation"", ""Science Fiction"", ""Family""]",0,145,1.38812
+,57504,"[""Fantasy"", ""Animation"", ""Drama"", ""Science Fiction""]",3800000,886,5.56634
+,57520,"[""Horror"", ""Mystery"", ""Thriller""]",0,186,6.14967
+,57526,"[""Drama"", ""Horror"", ""Thriller"", ""Crime""]",32483410,351,3.47234
+,57528,"[""Action"", ""Thriller""]",113244290,1462,8.77778
+,57532,"[""Comedy""]",84646831,655,6.31713
+,57534,"[""Drama"", ""Horror"", ""Thriller""]",56309766,309,4.0622
+,57536,"[""Comedy""]",6575282,172,2.43799
+,57538,"[""Comedy"", ""Romance""]",0,148,3.86242
+,57637,"[""Horror"", ""Action"", ""Thriller"", ""Science Fiction""]",249905,127,1.64565
+,57640,"[""Adventure"", ""Fantasy"", ""Science Fiction""]",160388063,2506,14.288
+,57669,"[""Comedy"", ""Drama"", ""Crime""]",32002538,5453,8.71729
+,57792,"[""Drama"", ""Comedy"", ""Romance""]",0,130,3.15807
+,57845,"[""Music"", ""Documentary""]",0,129,0.56114
+,57910,"[""Comedy"", ""Horror""]",0,341,4.10997
+,57951,"[""Action"", ""Adventure"", ""Comedy"", ""Romance""]",111231041,513,8.84542
+,57980,"[""Drama"", ""Comedy"", ""Foreign""]",0,122,0.01098
+,58025,"[""Adventure""]",222231186,2252,9.38441
+,58047,"[""Comedy"", ""Romance""]",55447968,1426,13.7783
+,58078,"[""Drama"", ""Action"", ""Thriller"", ""Crime""]",0,257,1.62264
+,58103,"[""Drama"", ""Action"", ""Thriller"", ""Crime""]",0,1161,7.27814
+,58105,"[""Fantasy""]",162839667,738,6.23106
+,58107,"[""Music"", ""Drama"", ""Romance""]",150816700,453,14.2031
+,58154,"[""Drama""]",0,814,8.12216
+,58156,"[""Comedy""]",33472850,649,4.00948
+,58162,"[""Comedy"", ""Romance""]",33000000,750,4.52861
+,58191,"[""Documentary""]",274661,256,0.02175
+,58246,"[""Drama""]",0,134,0.68222
+,58291,"[""Comedy"", ""Family""]",68397662,117,1.85309
+,58293,"[""Adventure"", ""Action"", ""Drama"", ""Fantasy""]",266000000,2095,16.3832
+,58295,"[""Thriller"", ""Crime"", ""Drama""]",30028592,2089,7.18065
+,58297,"[""Action"", ""Thriller"", ""Science Fiction""]",22211426,554,4.78296
+,58299,"[""Animation"", ""Comedy"", ""Family"", ""Adventure"", ""Fantasy""]",297138014,1116,13.0928
+,58301,"[""Horror"", ""Thriller"", ""Crime""]",7938872,488,9.85115
+,58303,"[""Drama"", ""Crime"", ""War""]",0,1095,1.04526
+,58306,"[""History""]",26527510,537,1.91332
+,58315,"[""Comedy"", ""Romance""]",41819064,447,2.49393
+,58332,"[""Horror"", ""Action"", ""Science Fiction""]",5364858,306,4.90772
+,58334,"[""Drama"", ""Comedy"", ""Thriller""]",60641,137,2.50724
+,58347,"[""Comedy"", ""Fantasy"", ""Romance""]",0,621,3.54763
+,58351,"[""Drama""]",307076,306,2.59534
+,58376,"[""Documentary"", ""History""]",0,445,1.11429
+,58418,"[""Comedy"", ""Drama"", ""Romance""]",0,116,1.71291
+,58425,"[""Music""]",0,226,1.40839
+,58432,"[""Comedy"", ""Drama""]",2911267,147,1.42796
+,58490,"[""Drama"", ""Comedy"", ""Romance""]",16051363,475,2.04964
+,58492,"[""Drama"", ""Romance""]",414404,164,3.14266
+,58559,"[""Drama"", ""Action"", ""Crime"", ""Thriller""]",1001921825,23512,51.6595
+,58622,"[""Comedy""]",0,136,0.01523
+,58627,"[""Drama"", ""Action""]",41627431,265,12.9776
+,58652,"[""Comedy"", ""Drama"", ""Family"", ""Fantasy"", ""Science Fiction""]",0,113,3.79149
+,58655,"[""Comedy""]",0,337,3.85704
+,58706,"[""Drama"", ""Foreign""]",23311391,109,0.0185
+,58803,"[""Drama"", ""Crime""]",69823199,2461,7.29612
+,58806,"[""Comedy"", ""Drama"", ""Romance""]",10569964,356,1.5153
+,58839,"[""Comedy"", ""Romance""]",41299492,315,1.60823
+,58876,"[""Drama"", ""War""]",11207130,171,4.89786
+,58879,"[""Documentary"", ""Music""]",0,162,2.62908
+,58964,"[""Horror""]",0,148,3.25557
+,58972,"[""Adventure"", ""Comedy"", ""Family"", ""Fantasy""]",100074624,230,4.80693
+,58975,"[""Drama"", ""Horror""]",0,353,5.09056
+,58998,"[""Comedy"", ""Romance"", ""Drama""]",105173115,3995,10.2926
+,59014,"[""Action"", ""Comedy"", ""Science Fiction""]",25871834,434,4.09744
+,59016,"[""Action"", ""Crime"", ""Drama"", ""Thriller""]",65569869,479,4.04951
+,59018,"[""Crime"", ""Drama"", ""Music""]",9234510,934,1.42603
+,59022,"[""Comedy"", ""Adventure""]",43493123,1100,5.89483
+,59026,"[""Comedy""]",0,227,6.95974
+,59037,"[""Action""]",93945766,550,4.2758
+,59103,"[""Adventure"", ""Fantasy"", ""Action""]",127906624,796,3.16243
+,59118,"[""Drama"", ""Comedy""]",18130888,575,7.58955
+,59126,"[""Comedy"", ""Documentary""]",0,1028,2.60778
+,59141,"[""Comedy""]",6870249,510,1.96859
+,59143,"[""Comedy"", ""Documentary""]",0,307,0.63089
+,59220,"[""Comedy"", ""Drama"", ""Romance""]",0,247,1.26071
+,59256,"[""Drama"", ""Thriller"", ""Crime"", ""Mystery"", ""Romance""]",17741298,197,2.68536
+,59258,"[""Comedy"", ""Romance""]",63833449,679,1.24417
+,59295,"[""Documentary""]",7700000,129,0.00747
+,59306,"[""Crime"", ""Horror""]",14796236,195,2.12054
+,74668,"[""Action"", ""Thriller"", ""Crime""]",8786375,282,4.22543
+,74677,"[""Documentary""]",0,210,0.3911
+,74685,"[""Mystery"", ""Horror"", ""Action""]",54956140,629,14.8407
+,74688,"[""Drama"", ""Romance"", ""War""]",114977104,358,8.56655
+,74698,"[""Comedy"", ""Family"", ""Fantasy""]",112462508,194,11.3598
+,74727,"[""Comedy"", ""Crime"", ""Drama""]",0,143,0.7323
+,74750,"[""Thriller"", ""Horror""]",18469680,218,4.30341
+,74754,"[""Drama"", ""Romance""]",0,186,0.00842
+,74787,"[""Drama"", ""Romance""]",0,102,4.60174
+,74789,"[""Family"", ""Fantasy"", ""Adventure""]",1025467110,3408,18.2902
+,74791,"[""Adventure"", ""Animation"", ""Comedy"", ""Family"", ""Fantasy""]",0,124,0.25244
+,74795,"[""Action"", ""Adventure"", ""Drama"", ""Thriller""]",94882889,885,11.5479
+,74851,"[""Action"", ""Crime"", ""Thriller""]",52615806,476,4.07511
+,74868,"[""Fantasy"", ""Drama"", ""Thriller""]",4706919,274,3.4158
+,74916,"[""Comedy"", ""Drama"", ""Romance""]",6153967,333,1.76642
+,74944,"[""Crime"", ""Drama"", ""Thriller""]",29536299,230,2.63782
+,74946,"[""Comedy""]",49779728,557,4.21442
+,74948,"[""Thriller"", ""Crime"", ""Drama"", ""Action""]",0,458,3.2345
+,75341,"[""Drama"", ""Romance""]",0,379,10.8235
+,75395,"[""Thriller""]",3065860,194,1.21162
+,75805,"[""Action""]",136,498,9.27008
+,75813,"[""Comedy"", ""Crime"", ""Drama"", ""Thriller""]",985117,282,2.27347
+,75985,"[""Action"", ""Science Fiction"", ""Thriller"", ""Crime""]",18409891,532,4.17175
+,76030,"[""Horror"", ""Mystery"", ""Thriller""]",29000000,196,8.8881
+,76054,"[""Documentary"", ""Family""]",19406406,128,5.42951
+,76077,"[""Science Fiction"", ""Comedy"", ""Adventure""]",61336869,1393,10.9969
+,76079,"[""Drama"", ""Thriller"", ""Mystery""]",8459458,312,6.85964
+,76091,"[""Crime"", ""Drama"", ""Mystery"", ""Thriller""]",17112713,274,3.72448
+,76093,"[""Fantasy"", ""Adventure"", ""Animation"", ""Family""]",494878759,5806,17.7945
+,76130,"[""Adventure"", ""Action"", ""Science Fiction"", ""Thriller""]",875386,111,3.26128
+,76173,"[""Action"", ""Comedy"", ""Crime""]",14000000,421,0.91124
+,76175,"[""Adventure"", ""Fantasy"", ""Action""]",232713139,1107,17.724
+,76210,"[""Drama"", ""Action"", ""Comedy"", ""Crime""]",44462,302,1.80025
+,76251,"[""Action"", ""Crime""]",96188903,5428,18.4443
+,76293,"[""Comedy""]",152263880,1001,5.23106
+,76317,"[""Drama"", ""Horror"", ""Mystery"", ""Thriller""]",3606395,141,3.68084
+,76738,"[""Documentary"", ""Foreign""]",0,151,0.01079
+,76763,"[""Drama"", ""Music""]",2995811,244,2.30578
+,77191,"[""Comedy""]",0,203,1.35553
+,77201,"[""Adventure"", ""Drama"", ""Action"", ""Fantasy""]",30638,251,4.9869
+,77206,"[""Comedy"", ""Family""]",0,167,4.22072
+,77240,"[""Drama"", ""Romance""]",0,136,0.61283
+,77307,"[""Drama""]",0,432,7.54443
+,77364,"[""Action"", ""Adventure"", ""Crime"", ""Mystery"", ""Thriller""]",23580000,389,13.7473
+,77414,"[""Drama"", ""Family"", ""Romance""]",0,152,6.38678
+,77421,"[""Comedy"", ""Drama"", ""Romance""]",0,264,1.73329
+,77427,"[""Horror""]",0,330,3.27779
+,77455,"[""Documentary""]",4790751,1812,5.78908
+,77540,"[""Adventure"", ""Fantasy"", ""Action"", ""Science Fiction""]",7810000,213,1.47069
+,77561,"[""Adventure"", ""Action"", ""Science Fiction""]",623933331,4935,29.2936
+,77629,"[""Documentary"", ""Foreign""]",0,144,0.02588
+,109483,"[""Comedy"", ""Romance""]",26049082,120,9.62196
+,109487,"[""Drama"", ""Science Fiction""]",621752480,4747,150.019
+,109569,"[""Action"", ""Drama"", ""Thriller"", ""Crime""]",0,136,9.95313
+,109578,"[""Action"", ""Thriller"", ""Mystery""]",222809600,460,16.9374
+,109673,"[""Action"", ""War""]",331169117,445,28.8303
+,109846,"[""Animation"", ""Adventure"", ""Family""]",272912430,122,12.3461
+,109848,"[""Thriller"", ""Science Fiction"", ""Drama""]",5380251,363,12.6097
+,109850,"[""Action"", ""Crime"", ""Drama"", ""Thriller""]",203277636,171,13.1218
+,109864,"[""Comedy"", ""Drama"", ""Crime""]",3485127,224,2.90861
+,109895,"[""Comedy""]",7800000,162,5.13089
+,110102,"[""Action"", ""Adventure"", ""Science Fiction""]",714766572,1875,56.5179
+,110127,"[""Drama"", ""Adventure""]",362637473,457,23.6338
+,110297,"[""Comedy"", ""Adventure"", ""Crime"", ""Family""]",80383113,109,5.13285
+,110407,"[""Science Fiction"", ""Thriller""]",0,122,5.47114
+,110453,"[""Drama""]",28831145,111,7.15874
+,110501,"[""Action"", ""Crime"", ""Thriller""]",2627209,293,11.1259
+,110553,"[""Action"", ""Adventure"", ""Fantasy""]",705717432,693,41.2332
+,110586,"[""Drama""]",13287735,235,7.17429
+,110591,"[""Horror""]",44030246,135,9.54343
+,110730,"[""Thriller"", ""Science Fiction"", ""Drama"", ""Mystery""]",103000000,543,13.2636
+,110771,"[""Comedy"", ""Romance""]",196781193,202,21.4382
+,110882,"[""Drama"", ""Thriller""]",4635300,265,14.0111
+,111113,"[""Comedy""]",268157400,436,21.6376
+,111235,"[""Documentary""]",0,133,1.46494
+,111360,"[""Action"", ""Science Fiction""]",458863600,975,48.8593
+,111362,"[""Action"", ""Adventure"", ""Fantasy"", ""Science Fiction""]",746000000,2339,48.127
+,111364,"[""Thriller"", ""Action"", ""Science Fiction""]",528676069,732,24.5018
+,111384,"[""Thriller""]",258384,165,10.9059
+,111443,"[""Comedy""]",45967935,493,18.4005
+,111617,"[""Comedy""]",123494610,140,15.1717
+,111622,"[""Comedy"", ""Music"", ""Romance"", ""Drama""]",63464861,351,27.3533
+,111659,"[""Fantasy"", ""Adventure"", ""Action"", ""Family"", ""Romance""]",758410378,749,28.9209
+,111743,"[""Comedy"", ""Western""]",0,308,11.1147
+,111759,"[""Action"", ""Science Fiction""]",369200000,2841,44.1573
+,111921,"[""Romance"", ""Drama""]",305151265,621,34.0782
+,112006,"[""Animation"", ""Comedy"", ""Action"", ""Family""]",0,115,10.5839
+,112138,"[""Crime"", ""Comedy"", ""Action""]",188441614,792,25.4243
+,112171,"[""Thriller"", ""Action"", ""Crime""]",192330738,492,67.4807
+,112175,"[""Fantasy"", ""Action"", ""Adventure"", ""Animation"", ""Comedy"", ""Family""]",609123048,1105,49.2648
+,112183,"[""Drama"", ""Comedy""]",103215094,1603,54.143
+,112290,"[""Drama""]",44349000,1551,14.0499
+,112370,"[""Science Fiction"", ""Action"", ""Adventure""]",245500000,412,40.7921
+,112421,"[""Comedy"", ""Drama"", ""Mystery""]",0,165,13.3993
+,112515,"[""Drama"", ""Thriller"", ""Horror""]",4222200,265,27.3449
+,112552,"[""Drama""]",13993092,2010,65.8346
+,112556,"[""Mystery"", ""Thriller"", ""Drama""]",368061911,3173,80.3237
+,112623,"[""Science Fiction"", ""Action"", ""Drama"", ""Thriller""]",708200000,1143,43.9117
+,112788,"[""Comedy""]",126069509,207,47.6347
+,112804,"[""Science Fiction"", ""Drama""]",336472,186,11.1746
+,112818,"[""Horror"", ""Thriller""]",108782847,122,30.144
+,112852,"[""Science Fiction"", ""Fantasy"", ""Adventure""]",774176600,3538,91.9846

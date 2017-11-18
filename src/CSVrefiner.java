@@ -14,7 +14,8 @@ public class CSVrefiner
 	public static void main(String[] args)
 	{			
 		ArrayList<String> genres = CSVrefiner.buildGenres();
-		CSVrefiner.buildCSV(genres);	          	      
+		CSVrefiner.buildCSV(genres);
+		//TODO predict rating -- read in updated test file and use information to predict rating
 	}	
 	
 	private static ArrayList<String> buildGenres() 
@@ -46,11 +47,11 @@ public class CSVrefiner
 		ArrayList<String> vals = new ArrayList<String>();
 		String line = null;
 			
-		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("movie_profiles_full_current.csv"), "UTF-8")))
+		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("test_set_current.csv"), "UTF-8")))
 		{
 			File file = null;
 			try {
-				file = new File("movie_profiles_full_updated.csv");
+				file = new File("test_set_updated.csv");
 				if(!file.exists())
 				{
 					file.createNewFile();
@@ -166,5 +167,10 @@ public class CSVrefiner
 		{
 			e.printStackTrace();
 		}
+	}
+	
+	private static float predictRating()
+	{
+		return 0;
 	}
 }
