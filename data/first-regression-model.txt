@@ -140,3 +140,82 @@ Root mean squared error                  0.4395
 Relative absolute error                 85.0561 %
 Root relative squared error             86.7622 %
 Total Number of Instances             7881    
+
+==========================================
+3
+=============================================
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.LinearRegression -S 0 -R 1.0E-8 -num-decimal-places 4
+Relation:     movie_profiles_full_updated
+Instances:    7881
+Attributes:   26
+              rate_ave
+              Action
+              Adventure
+              Animation
+              Comedy
+              Crime
+              Documentary
+              Drama
+              Family
+              Fantasy
+              Foreign
+              History
+              Horror
+              Kids
+              Music
+              Mystery
+              Romance
+              ScienceFiction
+              TVMovie
+              Thriller
+              War
+              Western
+              rate_cnt
+              popularity
+              mid
+              releasedate
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+Linear Regression Model
+
+rate_ave =
+
+     -0.1384 * Action +
+     -0.0597 * Adventure +
+      0.2947 * Animation +
+     -0.0839 * Comedy +
+      0.0325 * Crime +
+      0.4734 * Documentary +
+      0.2564 * Drama +
+     -0.2415 * Family +
+      0.2149 * Foreign +
+      0.1017 * History +
+     -0.3349 * Horror +
+     -0.0558 * Music +
+      0.0463 * Mystery +
+     -0.0216 * Romance +
+     -0.0774 * ScienceFiction +
+     -0.0326 * Thriller +
+      0.0547 * War +
+      0      * rate_cnt +
+      0.0022 * popularity +
+      0      * mid +
+     -0      * releasedate +
+      3.3002
+
+Time taken to build model: 0.05 seconds
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.626 
+Mean absolute error                      0.3059
+Root mean squared error                  0.395 
+Relative absolute error                 75.8734 %
+Root relative squared error             77.9726 %
+Total Number of Instances             7881   
