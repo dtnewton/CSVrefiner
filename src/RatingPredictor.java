@@ -8,22 +8,20 @@ import java.util.ArrayList;
 
 public class RatingPredictor
 {
-	boolean success;
-	private double BASE_MODEL_VAL = 3.2471;
-	
-	
+	private ArrayList<String> headers;
+	private ArrayList<String> vals;
+	private String line;
+	private String[] splitStr, recordData;
+	private double ratingPrediction;
+		
 	public RatingPredictor() 
 	{
 		this.BuildCSV();
 	}
 	
-	public boolean getSuccess()
-	{
-		return success;
-	}
 	private void BuildCSV()
 	{
-		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("data/test_set_updated.csv"), "UTF-8")))
+		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("data/test_main_updated.csv"), "UTF-8")))
 		{
 			
 			File file = null;
@@ -37,27 +35,25 @@ public class RatingPredictor
 			}catch(Exception e) 
 			{
 				e.printStackTrace();
-				this.success = false;
 			}
 				
 			BufferedWriter writer = new BufferedWriter(new FileWriter(file));
 			
-			String line;
-			ArrayList<String> headers = new ArrayList<String>();
-			ArrayList<String> vals = new ArrayList<String>();
+			line = new String();
+			this.headers = new ArrayList<String>();
+			this.vals = new ArrayList<String>();
 			
 			/*copy headers*/
-			line = reader.readLine();
+			this.line = reader.readLine();
 			if(line.startsWith("\uFEFF"))
 			{
 				line = line.substring(1);
 			}
 			
-			String[] splitStr = line.trim().split(",");
+			splitStr = line.trim().split(",");
 			
 			for(int i = 0; i < splitStr.length; i++)
-			{
-			
+			{		
 			    headers.add(splitStr[i]);		
 			}
 			
@@ -73,26 +69,19 @@ public class RatingPredictor
 			writer.newLine();
 			
 			/*copy data*/
-			String[] fullLine;
-			double ratingPrediction;
-			
-			
 			//*********************************************************************
 			while((line = reader.readLine())!=null)
 			{
 				vals.clear();
-				
-				
+			
 				/* COLLECT VALS */
-				fullLine = line.trim().split(",");
-				for(int i = 0; i < fullLine.length; i++)
-				{
-					
-					vals.add(fullLine[i]);
-					
+				recordData = line.trim().split(",");
+				for(int i = 0; i < recordData.length; i++)
+				{				
+					vals.add(recordData[i]);				
 				}
 				
-				ratingPrediction = getPrediction(vals);
+				this.ratingPrediction = getPrediction(vals);
 				vals.set(0, Double.toString(ratingPrediction));
 				
 				/* WRITE */
@@ -107,8 +96,7 @@ public class RatingPredictor
 					else
 					{
 						writer.write(vals.get(i));
-					}
-			
+					}	
 				}
 
 				writer.newLine();
@@ -121,7 +109,6 @@ public class RatingPredictor
 		catch(Exception e)
 		{
 			e.printStackTrace();
-			this.success = false;
 		}
 		
 	}
@@ -129,52 +116,30 @@ public class RatingPredictor
 	private double getPrediction(ArrayList<String> vals) 
 	{
 		double sum = 0;
+		
 
-		
-		
-		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("data/linreg_model.txt"), "UTF-8")))
-		{
-			String line;
-			ArrayList<String> modifiers = new ArrayList<String>();
-			
-			line = reader.readLine();
-			if(line.startsWith("\uFEFF"))
-			{
-				line = line.substring(1);
-			}
-			
-			String[] splitStr = line.trim().split(",");
-			
-			for(int i = 0; i < splitStr.length; i++)
-			{
-				modifiers.add(splitStr[i]);	
-			}
-			
-			int modIndex = 0;
-			
-			//TODO - this may be a little too specific, lacks flexibility.
-			for(int i = 1; i < vals.size(); i++)
-			{
-				if(i == 9 || i == 13 || i == 14 || i == 18 || i == 23)
-				{
-					//do nothing.
-				}
-				else
-				{
-					sum += Float.parseFloat(vals.get(i)) * Float.parseFloat(modifiers.get(modIndex));
-					modIndex++;
-				}
-				
-			}
-			
-			
-		}
-		catch(Exception e)
-		{
-			e.printStackTrace();
-		}
-		
-		sum += BASE_MODEL_VAL;
+		sum =
+
+			     -0.1636 * Double.parseDouble(vals.get(1)) +
+			     -0.034  * Double.parseDouble(vals.get(2)) +
+			      0.2733 * Double.parseDouble(vals.get(3)) +
+			     -0.1183 * Double.parseDouble(vals.get(4)) +
+			      0.0566 * Double.parseDouble(vals.get(5)) +
+			      0.3868 * Double.parseDouble(vals.get(6)) +
+			      0.2473 * Double.parseDouble(vals.get(7)) +
+			     -0.2469 * Double.parseDouble(vals.get(8)) +
+			      0.1752 * Double.parseDouble(vals.get(10)) +
+			      0.1285 * Double.parseDouble(vals.get(11)) +
+			     -0.3533 * Double.parseDouble(vals.get(12)) +
+			      0.0732 * Double.parseDouble(vals.get(15)) +
+			     -0.0267 * Double.parseDouble(vals.get(16)) +
+			     -0.0506 * Double.parseDouble(vals.get(17)) +
+			     -0.058  * Double.parseDouble(vals.get(19)) +
+			      0.1186 * Double.parseDouble(vals.get(20)) +
+			      0.1473 * Double.parseDouble(vals.get(21)) +
+			      0.0069 * Double.parseDouble(vals.get(22)) +
+			      3.2471;
+
 		
 		return sum;
 
